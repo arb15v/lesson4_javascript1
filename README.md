@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 16th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alexander Barlow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was a basic introduction into coding Java for an HTML page, and taught me variables and getElementById)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://arb15v.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I leanred how to declare a variable in Java)
+2. (I learned how to use Java on a webpage to retrieve elements on a page)
+3. (I learned how to calculate  percentages in Java)
 
 
 
